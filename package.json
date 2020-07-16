@@ -52,7 +52,7 @@
     "minimatch": "~0.2.12",
     "nopt": "~1.0.10",
     "rimraf": "~2.2.8",
-    "underscore.string": "~2.2.1",
+    "underscore.string": "~3.3.5",
     "which": "~1.0.5"
   },
   "devDependencies": {
